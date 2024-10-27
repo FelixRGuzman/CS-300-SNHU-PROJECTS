@@ -1,6 +1,6 @@
 # CS-300-SNHU-Project-Two
 
-# -[ IMPORTANT: The PDF and or Word files are a seperate project that relates to the first -]
+# -[ IMPORTANT: The PDF and or Word files are a separate project that relates to the first -]
 
 Essentially, we had to write Pseudocode for different data structures and in the final one pick a structure and make a program. This means the following responses will have information on both projects as if they were one as they heavily relate.
 
